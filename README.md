@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# CIBORGUE SYNTH: A Próxima Fronteira do "Fake Natty" 🦾✨
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto apresenta a criação de uma avatar ciborgue hiper-realista para o desafio "Natty or Not" da DIO. O conceito explora a linha tênue entre a estética humana e o aprimoramento tecnológico, desafiando a percepção do espectador sobre o que é "natural" ou gerado por inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **Leonardo IA**: Geração da imagem base (concept art da ciborgue).
+* **Gemini 3 Flash**: Roteirização e criação do script de fala.
+* **D-ID**: Animação do avatar e sincronização labial (Lip Sync).
+* **Voz Thalita (D-ID)**: Síntese de voz natural em português do Brasil.
+* **Veo 3.1**: Refinamento visual do vídeo final para maior fidelidade e detalhes.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1.  **Visual**: Utilizeie o Leonardo IA para criar uma ciborgue com traços realistas (sardas e olhar humano) contrastando com hardware branco e futurista.
+2.  **Script**: Utilizei o Gemini para escrever um texto curto e impactante que reforçasse a identidade da personagem.
+3.  **Animação**: No D-ID, dei vida à imagem utilizando a voz **Thalita** para uma locução envolvente.
+4.  **Pós-Produção**: Apliquei o Veo 3.1 para refinar a qualidade do vídeo e focar a atenção nos detalhes da ciborgue.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo de alta definição onde a "Ciborgue Synth" faz sua introdução à nova era da inteligência generativa.
+[ADICIONE AQUI O LINK PARA O SEU VÍDEO]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão 
+O maior desafio foi evitar o "Vale da Estranheza". Ao usar o Veo para refinar o que o D-ID criou, consegui aproximar a IA de um aspecto mais "Natty" (natural), mesmo sendo um projeto assumidamente "Fake Natty" (sintético). A tecnologia agora permite que a máquina não apenas imite a vida, mas a estilize com perfeição.
