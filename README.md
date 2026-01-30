@@ -17,8 +17,10 @@ Este projeto apresenta a criação de uma avatar ciborgue hiper-realista para o 
 4.  **Pós-Produção**: Apliquei o Veo 3.1 para refinar a qualidade do vídeo e focar a atenção nos detalhes da ciborgue.
 
 ## 🚀 Resultados
-O resultado é um vídeo de alta definição onde a "Ciborgue Synth" faz sua introdução à nova era da inteligência generativa.
-[ADICIONE AQUI O LINK PARA O SEU VÍDEO]
+Abaixo, você pode conferir a introdução da Ciborgue Synth. Clique na imagem para assistir ao vídeo completo:
 
+[![Assista ao vídeo da Ciborgue Synth](https://github.com/DimasRabelo/lab-natty-or-not/raw/refs/heads/main/Ciborgue.mp4/../thumb.png)](https://github.com/DimasRabelo/lab-natty-or-not/raw/refs/heads/main/Ciborgue.mp4)
+
+*Nota: Se o player não carregar automaticamente, [clique aqui para baixar/ver o vídeo](https://github.com/DimasRabelo/lab-natty-or-not/raw/refs/heads/main/Ciborgue.mp4).*
 ## 💭 Reflexão 
 O maior desafio foi evitar o "Vale da Estranheza". Ao usar o Veo para refinar o que o D-ID criou, consegui aproximar a IA de um aspecto mais "Natty" (natural), mesmo sendo um projeto assumidamente "Fake Natty" (sintético). A tecnologia agora permite que a máquina não apenas imite a vida, mas a estilize com perfeição.
